@@ -1,3 +1,5 @@
+/* SLIDER START */
+
 .carousel-item{
    
     
@@ -48,4 +50,61 @@ span{
     padding: 10px 30px;
     border-radius: 5px;
     font-size: 16px;
+}
+
+/* PRICING START */
+
+.price{
+    background: #FFFFFF;
+    color: #231D4F;
+}
+
+.price h5{
+    text-align: start;
+}
+
+.price p{
+    text-align: start;
+}
+
+.price ul{
+    list-style: none;
+    margin: 0;
+    padding: 0 0 50px 0;
+}
+
+
+.special-button{
+    position:absolute; 
+    left: 85%;
+    bottom: 378px;
+    color: white;
+    background: red;
+    border-radius: 5px;
+}
+
+
+.card-button{
+    width: 207px;
+    height: 45px;
+    background-color: #f496d238;
+    border-radius: 15px;
+    color:#3F87F5;
+   
+
+}
+
+.special-price{
+    background-color: #3F87F5;
+    color: white;
+    position: relative;
+    bottom: 15px;
+
+}
+
+.special-price-button{
+    background-color: white;
+    color: #3F87F5;
+    width: 207px;
+    height: 45px;
 }
